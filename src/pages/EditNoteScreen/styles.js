@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 
 export const Container = styled.View`
 flex: 1;
-background-color: #333;
+background-color: #251F2D;
 `;
 
 export const TitleInput = styled.TextInput`
@@ -39,7 +39,7 @@ height: 20px;
 
 export const DeleteButton = styled.TouchableHighlight`
 height: 40px;
-background-color: #FF3333;
+background-color: #CF6679;
 justify-content: center;
 align-items: center;
 `;
