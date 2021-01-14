@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 
 export const Container = styled.View`
 flex: 1;
-background-color: #251F2D;
+background-color: #252525;
 justify-content: center;
 align-items: center;
 `;
@@ -34,5 +34,5 @@ margin-bottom: 10px;
 
 export const NoNotesText = styled.Text`
 font-size: 17px;
-color: #FFF;
+color: #909090;
 `;
